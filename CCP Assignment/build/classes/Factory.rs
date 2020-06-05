@@ -1,0 +1,15 @@
+boxes
+forklifts
+boxingp
+delivering
+vans
+scan
+Factory
+sealing
+packaging
+packages
+can
+filling
+steriles
+labeling
+bays
